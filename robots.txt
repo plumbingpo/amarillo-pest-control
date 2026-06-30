@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amarillopestcontrolco.com/sitemap.xml
